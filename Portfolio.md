@@ -1,5 +1,6 @@
 ---
+layout: page
 title: Portfolio
-permalink: portfolio.md
+permalink: /portfolio/
 ---
 My Portfolio Page
